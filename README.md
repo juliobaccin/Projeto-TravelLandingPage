@@ -3,7 +3,7 @@ Projeto - Travel Landing Page
 </h1>
  
  <p align="center">
- Website em <strong>HTML</strong> e <strong>CSS</strong> com menu em <strong>javascript</strong>, desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
+ Website em <strong>HTML</strong> e <strong>CSS</strong> com menu lateral em <strong>javascript</strong>. Desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
  </p>
 
 <p align="center">
