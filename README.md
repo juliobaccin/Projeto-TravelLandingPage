@@ -7,7 +7,7 @@ Projeto - Travel Landing Page
  </p>
 
 <p align="center">
- você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Travel-landing-Page/">aqui</a>
+ você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-TravelLandingPage/">aqui</a>
 </p>
 
 <div align="center">
